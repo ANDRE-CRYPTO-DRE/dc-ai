@@ -17,6 +17,7 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
 Biggest Win: 
 
+This is created through Basic React Concept with Tailwind CSS
 <img width="1889" height="920" alt="image" src="https://github.com/user-attachments/assets/2b850d9a-78d6-456d-87bb-247424b16836" />
 
 Biggest Error:
