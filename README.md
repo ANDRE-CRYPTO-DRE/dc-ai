@@ -40,22 +40,20 @@ Biggest Win: I finished the sidebar part of my DC-AI
 
 Artifact for the 2nd week of Training
 
-Morning Stand-Up: 
+Morning Stand-Up: 8:15
 
 What did I do yesterday? - I made a website by following a step-by-step tutorial during a Google Meet led by our instructor.
 
 What will I do today? - I will continue what started yesterday and will learn more.
 
-What are my blockers?
+What are my blockers? - 
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
 Biggest Win: 
 
-This is created through Basic React Concept with Tailwind CSS
+<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/bd345ed7-67b6-4ff3-b8f0-fa25f04b3b79" />
 
-
-Biggest Error:
 
 
 
