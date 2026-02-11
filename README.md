@@ -32,12 +32,9 @@ What are my blockers?
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
-Biggest Win: 
+Biggest Win: I finished the sidebar part of my DC-AI
 
-This is created through Basic React Concept with Tailwind CSS
-
-
-Biggest Error:
+<img width="281" height="947" alt="image" src="https://github.com/user-attachments/assets/0c40cc26-6ef5-4e34-bccf-1b0288a55d02" />
 
 ## Week 2 (Day 8) 02/11/26
 
