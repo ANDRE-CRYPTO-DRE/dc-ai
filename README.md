@@ -28,7 +28,7 @@ What did I do yesterday? - I made a website by following a step-by-step tutorial
 
 What will I do today? - I will continue what started yesterday and will learn more.
 
-What are my blockers?
+What are my blockers? - None
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
@@ -42,7 +42,25 @@ Artifact for the 2nd week of Training
 
 Morning Stand-Up: 8:15
 
-What did I do yesterday? - I made a website by following a step-by-step tutorial during a Google Meet led by our instructor.
+What did I do yesterday? - I c
+
+What will I do today? - I will continue what started yesterday and will learn more.
+
+What are my blockers? - Failed to deploy Chatbot
+
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+Biggest Win: 
+
+<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/bd345ed7-67b6-4ff3-b8f0-fa25f04b3b79" />
+
+## Week 2 (Day 9) 02/12/26
+
+Artifact for the 2nd week of Training
+
+Morning Stand-Up: 8:15
+
+What did I do yesterday? - 
 
 What will I do today? - I will continue what started yesterday and will learn more.
 
@@ -52,7 +70,8 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
 Biggest Win: 
 
-<img width="1910" height="938" alt="image" src="https://github.com/user-attachments/assets/bd345ed7-67b6-4ff3-b8f0-fa25f04b3b79" />
+
+
 
 
 
