@@ -42,7 +42,7 @@ Artifact for the 2nd week of Training
 
 Morning Stand-Up: 8:15
 
-What did I do yesterday? - I c
+What did I do yesterday? - I made a website by following a step-by-step tutorial during a Google Meet led by our instructor.
 
 What will I do today? - I will continue what started yesterday and will learn more.
 
@@ -60,7 +60,27 @@ Artifact for the 2nd week of Training
 
 Morning Stand-Up: 8:15
 
-What did I do yesterday? - 
+What did I do yesterday? - Started to try deploying the ChatBot (DC-AI) I finished.
+
+What will I do today? - I will continue what started yesterday and will learn more.
+
+What are my blockers? - I can't connect the ChatBot to Gemini
+
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+Biggest Win: Finished all i need to finished and finally deployed my ChatBot AI claeed DC-ai.
+
+<img width="1910" height="934" alt="image" src="https://github.com/user-attachments/assets/bf35f752-3292-4d99-bfaf-7b0f7126dd9b" />
+
+<img width="1899" height="935" alt="image" src="https://github.com/user-attachments/assets/1b5dbc91-6011-4e5d-ad2b-93ce80f5ad62" />
+
+## Week 2 (Day 10) 02/13/26
+
+Artifact for the 2nd week of Training
+
+Morning Stand-Up: 8:15
+
+What did I do yesterday? - Started to try deploying the ChatBot (DC-AI) I finished.
 
 What will I do today? - I will continue what started yesterday and will learn more.
 
@@ -68,7 +88,7 @@ What are my blockers? -
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
-Biggest Win: 
+Biggest Win: Finished all i need to finished and finally deployed my ChatBot AI claeed DC-ai.
 
 
 
