@@ -25,15 +25,18 @@ Morning Stand-Up: 8:15
 
 What did I do yesterday? - I made a website by following a step-by-step tutorial during a Google Meet led by our instructor.
 
-What will I do today? - I will continue what started yesterday and will learn more.
+What will I do today? - I will make the design of my ChatBot in Figma
 
 What are my blockers? - None
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
-Biggest Win: I finished the sidebar part of my DC-AI
+Biggest Win: I finished the sidebar part of my DC-AI/ Finished the Design
 
 <img width="281" height="947" alt="image" src="https://github.com/user-attachments/assets/0c40cc26-6ef5-4e34-bccf-1b0288a55d02" />
+
+<img width="486" height="303" alt="image" src="https://github.com/user-attachments/assets/ba13ea60-9cf5-4eac-885b-dbac029d759b" />
+
 
 ## Week 2 (Day 8) 02/11/26
 
