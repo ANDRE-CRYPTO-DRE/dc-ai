@@ -80,15 +80,19 @@ Artifact for the 2nd week of Training
 
 Morning Stand-Up: 8:15
 
-What did I do yesterday? - Started to try deploying the ChatBot (DC-AI) I finished.
+What did I do yesterday? -  I have finished my ChatBotAI and deployed it.
 
-What will I do today? - I will continue what started yesterday and will learn more.
+What will I do today? - Present my ChatBotAI.
 
-What are my blockers? - 
+What are my blockers? - My chatbot is out of tokens, so it’s unavailable for demonstration.
 
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 
-Biggest Win: Finished all i need to finished and finally deployed my ChatBot AI claeed DC-ai.
+Biggest Win: I have successfully completed and finalized my ChatBot project and presented it. Job well done.
+
+Me and my Co-Developer's PPT:
+<img width="1905" height="938" alt="image" src="https://github.com/user-attachments/assets/38c02c38-1cfb-4770-97d2-5aa16ce62131" /> 
+
 
 
 
