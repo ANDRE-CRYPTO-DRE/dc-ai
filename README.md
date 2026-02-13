@@ -14,7 +14,7 @@ Biggest Win:
 This is created through Basic React Concept with Tailwind CSS
 <img width="1889" height="920" alt="image" src="https://github.com/user-attachments/assets/2b850d9a-78d6-456d-87bb-247424b16836" />
 
-Biggest Error:
+Biggest Error: I went through many errors in my code, but I’m grateful that it finally works
 
 ![67a11dea9ed042fb045402a15e951f87](https://github.com/user-attachments/assets/3aac7615-4564-4a86-9e4f-6c08ae559671)
 
