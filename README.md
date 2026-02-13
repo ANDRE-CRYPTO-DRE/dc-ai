@@ -25,7 +25,7 @@ Morning Stand-Up: 8:15
 
 What did I do yesterday? - I made a website by following a step-by-step tutorial during a Google Meet led by our instructor.
 
-What will I do today? - I will make the design of my ChatBot in Figma
+What will I do today? - I will make the design of my ChatBot in Figma.
 
 What are my blockers? - None
 
